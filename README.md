@@ -1,2 +1,4 @@
 # todo-list-react
-Todo list made with ReactJS.
+
+This is the todo list I'm making using React. Hopefully done before [insert deadline here].
+Status: NOT YET STARTED
