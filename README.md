@@ -8,9 +8,9 @@ Possible Statuses:
   1. NOT YET STARTED
   2. UNFINISHED
   3. ON HIATUS
-  4. DONE
+  4. Finished
 
-Features:
+Features to add:
   * Textbox and new TODO
   * Add checkbox to newly created TODO
   * Automatically add to item count and unchecked count
